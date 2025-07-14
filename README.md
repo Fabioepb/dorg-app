@@ -19,13 +19,6 @@ A modern, full-featured decentralized application (dApp) for interacting with th
 - **Error Handling**: Comprehensive error handling with user-friendly messages
 - **Address Formatting**: Clean display of wallet addresses and balances
 
-### Technical Features
-- **TypeScript**: Full type safety throughout the application
-- **React Query**: Efficient data fetching and caching
-- **Ethers.js v6**: Latest Web3 library for blockchain interactions
-- **Zustand**: Lightweight state management
-- **Vite**: Fast development and build tooling
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 19 + TypeScript
