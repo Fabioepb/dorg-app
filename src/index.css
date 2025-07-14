@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Space+Grotesk:wght@300..700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-accent: #220f2a;
+  --color-light-accent: #401777;
+  --color-background: #020617;
+
+  --color-container: #121229;
+  --color-container-border: #535353;
+}
+
+
+.delay-25 {
+  animation-delay: 0.25s;
+}
+
+.content {
+  background: #020617;
+  background-image:
+    linear-gradient(to right, rgba(71, 85, 105, 0.15) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(71, 85, 105, 0.15) 1px, transparent 1px),
+    radial-gradient(
+      circle at 50% 60%,
+      rgba(236, 72, 153, 0.15) 0%,
+      rgba(168, 85, 247, 0.05) 40%,
+      transparent 70%
+    );
+  background-size:
+    40px 40px,
+    40px 40px,
+    100% 100%;
+}
+
+body {
+  font-family:
+    "Space Grotesk", apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  color: var(--color-white);
+}
+
+.Toastify__progress-bar-theme--dark {
+  background: linear-gradient(
+    to right,
+    #5ac8fa,
+    #e202b2,
+    #f85b00,
+    #4cd964,
+    #125c00,
+    #1e08eb
+  );
+}
+
+.space-grotesk-regular {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.space-grotesk-medium {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.space-grotesk-bold {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.space-grotesk-light {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.space-grotesk-thin {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
