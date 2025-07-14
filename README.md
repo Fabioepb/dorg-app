@@ -109,6 +109,14 @@ All contract addresses are configured for the Sepolia testnet:
 - **Aave V3 ETH Pool**: `0x387d311e47e80b498169e6fb51d3193167d89F7D`
 - **Data Provider**: `0x3e9708d80f7B3e43118013075F7e95CE3AB31F31`
 
+### Environment Variables
+
+The only environment variable needed to run this project locally is
+
+-- VITE_ETHERSCAN_API_KEY
+
+Which should be supplied in a standard .env file with an API key from etherscan.
+
 ## 📱 Usage Guide
 
 ### Supplying Tokens
