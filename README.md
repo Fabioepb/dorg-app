@@ -118,17 +118,6 @@ All contract addresses are configured for the Sepolia testnet:
 
 ## 📱 Usage Guide
 
-### Connecting Your Wallet
-
-1. **Install MetaMask**: Download and install the MetaMask browser extension
-2. **Add Sepolia Network**: 
-   - Network Name: Sepolia Testnet
-   - RPC URL: https://sepolia.infura.io/v3/YOUR_PROJECT_ID
-   - Chain ID: 11155111
-   - Currency Symbol: ETH
-3. **Get Test ETH**: Visit a Sepolia faucet to get test ETH
-4. **Connect**: Click "Connect" in the dApp and approve the connection
-
 ### Supplying Tokens
 
 1. **Select Token**: Choose the token you want to supply
