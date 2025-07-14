@@ -78,13 +78,6 @@ bun dev
 
 The application will be available at `http://localhost:5173`
 
-### 4. Connect Your Wallet
-
-1. Open the application in your browser
-2. Click "Connect" to connect your MetaMask wallet
-3. Ensure you're on the Sepolia testnet (Chain ID: 11155111)
-4. Make sure you have some Sepolia ETH for transactions
-
 ## 🏗️ Project Structure
 
 ```
