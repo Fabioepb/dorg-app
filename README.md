@@ -113,9 +113,9 @@ All contract addresses are configured for the Sepolia testnet:
 
 The only environment variable needed to run this project locally is
 
--- VITE_ETHERSCAN_API_KEY
+- VITE_ETHERSCAN_API_KEY
 
-Which should be supplied in a standard .env file with an API key from etherscan.
+Which should be supplied in a standard `.env` file with an API key from etherscan.
 
 ## 📱 Usage Guide
 
