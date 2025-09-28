@@ -2,6 +2,8 @@
 
 A modern, full-featured decentralized application (dApp) for interacting with the Aave V3 lending protocol on the Ethereum Sepolia testnet. This application provides a complete DeFi experience with wallet integration, real-time balance tracking, and seamless token supply/withdrawal operations.
 
+This project was built in a single day (8 hours of development time) as part of a take home interview test.
+
 ## 🚀 Features
 
 ### Core Functionality
